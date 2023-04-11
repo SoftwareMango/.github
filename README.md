@@ -1,1 +1,1 @@
-# .github
+# Mango Software
